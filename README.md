@@ -90,11 +90,6 @@ Our repository includes:
 * README.md file
 
 ## Links
-Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
-[Repository]: <br/>
-https://github.com/Nikitsatsiki/data-ber-10-19/tree/master/module-1_projects/data-thieves-project
-[Slides]:
-**TBD** <br/>
 Used API: <br/>
 CityBikes API Documentation<br/>
 http://api.citybik.es/v2/
